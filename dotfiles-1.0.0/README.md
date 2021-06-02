@@ -1,6 +1,6 @@
 # My Dotfiles
  
- ![](https://github.com/hrithik73/dotfiles/blob/main/homescreen.jpg)                                                                      
+ ![](https://github.com/hrithik73/Dots/blob/main/dotfiles-1.0.0/homescreen.jpg)                                                                      
  i3 Wm configured with polybar.
  
  ## About
