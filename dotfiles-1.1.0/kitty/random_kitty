@@ -1,0 +1,22 @@
+#!/usr/bin/python
+import os
+import random
+import subprocess
+
+home = os.getenv("HOME")
+kitty = f"{home}/.config/kitty"
+choices_dir = f"{kitty}/kitty-themes/themes"
+choices = os.listdir(choices_dir)
+dest = f"{kitty}/theme.conf"
+
+if os.path.islink(dest):
+    os.remove(dest)
+
+new_theme = random.choice(choices)
+new_theme_path = f"{choices_dir}/{new_theme}"
+os.symlink(new_theme_path, dest)
+
+command = f"kitty @ set-colors -a -c {kitty}/kitty.conf"
+subprocess.run(command, shell=True)
+
+print(f"Kitty theme set to {new_theme}")

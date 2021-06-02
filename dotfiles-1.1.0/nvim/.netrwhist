@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/home/hrithik/Hrithik/React-Native/Garbage/gulambi-store/app/navigation'
+let g:netrw_dirhist_6='/home/hrithik/.zinit/bin'
+let g:netrw_dirhist_5='/home/hrithik/.config/fish/conf.d'
+let g:netrw_dirhist_4='/home/hrithik/.config/polybar/docky'
+let g:netrw_dirhist_3='/home/hrithik/.config/i3'
+let g:netrw_dirhist_2='/home/hrithik'
+let g:netrw_dirhist_1='/home/hrithik/Hrithik/Notes/Important'
+let g:netrw_dirhist_0='/home/hrithik/Hrithik/ReactJs/go-corona/src/components'
+let g:netrw_dirhist_9='/home/hrithik/Hrithik/ReactJs/CodeWithMOsh/hello-world/src/components'
+let g:netrw_dirhist_8='/home/hrithik/Pictures'
