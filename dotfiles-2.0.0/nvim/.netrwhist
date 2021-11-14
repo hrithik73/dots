@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/home/hrithik/ProJects/cool-guides/src/components'
+let g:netrw_dirhist_5='/home/hrithik/Hrithik/GitClones/dotfiles-public/images'
+let g:netrw_dirhist_4='/home/hrithik/.config/alacritty'
+let g:netrw_dirhist_3='/home/hrithik/ProJects/Coolguides/node_modules'
+let g:netrw_dirhist_2='/home/hrithik/ProJects/Coolguides/packages/expo-app/__generated__'
+let g:netrw_dirhist_1='/home/hrithik/.fzf'
+let g:netrw_dirhist_0='/lost+found'
+let g:netrw_dirhist_9='/'
+let g:netrw_dirhist_8='/home'
+let g:netrw_dirhist_7='/'
