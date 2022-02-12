@@ -1,5 +1,18 @@
-### All The Dot-files i have ever used for ricing!
-
----
-- 2020:- [v1.0.0](https://github.com/hrithik73/dots/tree/main/dotfiles-1.0.0)
-- 2021:- [v2.0.0](https://github.com/hrithik73/dots/tree/main/dotfiles-2.0.0)
+# My Dotfiles
+ 
+ ![](https://github.com/hrithik73/Dots/blob/main/dotfiles-1.0.0/homescreen.jpg)                                                                      
+ i3 Wm configured with polybar.
+ 
+ ## About
+ 
+ ### Polybar
+ - [polybar-1](https://github.com/adi1090x/polybar-themes/tree/master/polybar-1) from [polybar-themes](https://github.com/adi1090x/polybar-themes.git) by [Aditya Shakya](https://github.com/adi1090x)
+ 
+ 
+## Packages in use
+* python
+* polybar
+* i3lock-fancy
+* rofi
+* rofi-wifi-menu
+* redshift gtk
