@@ -1,18 +1,15 @@
-# My Dotfiles
- 
- ![](https://github.com/hrithik73/Dots/blob/main/dotfiles-1.0.0/homescreen.jpg)                                                                      
- i3 Wm configured with polybar.
- 
- ## About
- 
- ### Polybar
- - [polybar-1](https://github.com/adi1090x/polybar-themes/tree/master/polybar-1) from [polybar-themes](https://github.com/adi1090x/polybar-themes.git) by [Aditya Shakya](https://github.com/adi1090x)
- 
- 
-## Packages in use
-* python
-* polybar
-* i3lock-fancy
-* rofi
-* rofi-wifi-menu
-* redshift gtk
+### Dot-files of October 2021 (and Afterward) 
+
+
+----
+- Wm:- i3-gaps
+- Bar:- Polybar with forest from [adit1090x/polyabr-themes](https://github.com/adi1090x/polybar-themes)
+- Terminal:- Kitty with tmux
+- Shell:- Fish Shell
+- Editor:- NeoVim with some tweaks
+- Fonts:- Source Code from Powerline Patched 
+- Rofi: For Main menu and power-menu 
+----
+
+## Preview
+![](https://github.com/hrithik73/dots/blob/main/dotfiles-2.0.0/setup.png)
