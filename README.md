@@ -12,4 +12,4 @@
 ----
 
 ## Preview
-![](https://github.com/hrithik73/dots/blob/main/dotfiles-2.0.0/setup.png)
+![](https://github.com/hrithik73/dots/blob/dotfiles/oct-2021/setup.png)
