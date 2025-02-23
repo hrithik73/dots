@@ -1,0 +1,102 @@
+{
+  "workbench.colorCustomizations": {
+    "editor.lineHighlightBackground": "#1073cf2d",
+    "editor.lineHighlightBorder": "#9fced11f"
+  },
+  "workbench.tree.indent": 10,
+  "editor.fontFamily": "\"Geist Mono\",\"Monaspace Neon\",\"Iosevka Nerd Font\", monospace",
+  "editor.fontLigatures": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "files.autoSaveDelay": 20,
+  "editor.glyphMargin": false,
+  "workbench.preferredLightColorTheme": "Quiet Light",
+  "editor.suggestSelection": "first",
+  "files.autoSave": "onFocusChange",
+  "terminal.external.linuxExec": "/bin/bash",
+  "editor.suggest.showStatusBar": true,
+  "editor.quickSuggestions": {
+    "comments": "on",
+    "strings": "on"
+  },
+  "editor.renderWhitespace": "none",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "explorer.confirmDelete": false,
+  "scm.inputFontFamily": "default\"Monaco\"",
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "git.autofetch": true,
+  "editor.tabSize": 2,
+  "editor.fontWeight": "200",
+  "terminal.integrated.tabs.enabled": true,
+  "security.workspace.trust.untrustedFiles": "open",
+  "editor.wordWrap": "off",
+  "diffEditor.wordWrap": "off",
+  "editor.codeLensFontSize": 6,
+  "editor.inlineSuggest.enabled": true,
+  "editor.cursorBlinking": "smooth",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "color-highlight.languages": ["*", "!scss"],
+  "terminal.integrated.fontFamily": "\"Iosevka Nerd Font\",\"Geist Mono\"",
+  "terminal.explorerKind": "external",
+  "editor.smoothScrolling": true,
+  "editor.acceptSuggestionOnCommitCharacter": false,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "explorer.compactFolders": false,
+  "prettier.jsxSingleQuote": true,
+  "prettier.singleQuote": true,
+  "gitlens.views.commitDetails.files.layout": "tree",
+  "html.autoClosingTags": true,
+  "javascript.autoClosingTags": true,
+  "typescript.autoClosingTags": true,
+  "terminal.integrated.fontWeight": "600",
+  "editor.fontVariations": true,
+  "terminal.integrated.fontWeightBold": "900",
+  "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+  "editor.minimap.enabled": false,
+  "[python]": {
+    "editor.formatOnType": true
+  },
+  "editor.cursorWidth": 2,
+  "editor.linkedEditing": true,
+  "terminal.integrated.env.osx": {
+    "FIG_NEW_SESSION": "1"
+  },
+  "workbench.productIconTheme": "icons-carbon",
+  "editor.renderControlCharacters": false,
+  "gitlens.graph.layout": "editor",
+  "diffEditor.maxComputationTime": 0,
+  "workbench.layoutControl.enabled": false,
+  "window.commandCenter": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "js/ts.implicitProjectConfig.checkJs": true,
+  "editor.renderLineHighlightOnlyWhenFocus": true,
+  "terminal.integrated.fontSize": 14,
+  "terminal.integrated.cursorStyleInactive": "line",
+  "terminal.integrated.cursorBlinking": true,
+  "apc.stylesheet": {
+    ".title-label > h2": "display: none", // Remove primary side bar title
+    ".title-actions": "display: none", // Remove primary side bar action icons
+    ".editor-actions": "display: none", // Remove editor action icons
+    ".nosidebar .inline-tabs-placeholder": "width: 75px" // Align tabs to not overlap window controls when primary bar is hidden
+  },
+  "editor.fontSize": 13,
+  "editor.lineHeight": 1.5,
+  "editor.tokenColorCustomizations": {
+    "textMateRules": []
+  },
+  "workbench.colorTheme": "poimandres-noitalics",
+  "editor.formatOnSave": true,
+  "notebook.stickyScroll.enabled": true,
+  "workbench.sideBar.location": "right",
+  "editor.minimap.renderCharacters": false,
+  "window.zoomLevel": 0.4,
+  "workbench.activityBar.orientation": "vertical",
+  "editor.guides.indentation": false,
+  "editor.hideCursorInOverviewRuler": true,
+  "symbols.hidesExplorerArrows": false,
+  "editor.minimap.scale": 2
+}
