@@ -1,5 +1,8 @@
 My personal dotfiles
 
-- Vscode
+- Cursor
 - Ghostty
 - Zsh
+- Font
+  - Iosevka
+  - Geist [](https://vercel.com/font)
